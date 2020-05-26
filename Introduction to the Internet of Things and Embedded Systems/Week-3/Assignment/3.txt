@@ -1,0 +1,25 @@
+Research two microcontrollers and provide information about them from their datasheets. There are several microcontroller manufacturers that you can investigate including Atmel, Microchip, Freescale, TI, etc. For each microcontroller, report the following information. (Be sure to include a link to an online reference where you found this information.)  
+
+Clock frequency
+Bitwidth of the datapath
+Size of Flash memory
+Number of pins
+Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?
+Clock frequency
+Bitwidth of the datapath
+Size of Flash memory
+Number of pins
+Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?
+https://www.microchip.com/wwwproducts/en/ATmega32
+https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rx/rx700/rx71m.html
+
+Research the Arduino and Raspberry Pi platforms. 
+
+Indicate if there are operating systems which can be used on each platform. If there are, list those operating systems
+State whether the operating systems are open source or not. 
+Indicate if there are operating systems which can be used on each platform. If there are, list those operating systems
+State whether the operating systems are open source or not. 
+Arduino: None
+Raspberry Pi: Raspbian
+Arduino: None
+Raspberry Pi: Yes
